@@ -1,3 +1,4 @@
+### Where is the freaking status badge?
 
 # Contributing
 
